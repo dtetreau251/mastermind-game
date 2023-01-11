@@ -102,7 +102,6 @@ def make_computer_choice_list(computer_player_numbers):
             computer_choice_list.append(char)
         else:
             continue
-    print(computer_choice_list)
     return computer_choice_list
 
 
