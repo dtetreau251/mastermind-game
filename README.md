@@ -4,7 +4,7 @@ This project is based on the popular deduction game, Mastermind, where players g
 
 ## Demo
 
-![Mastermind Terminal Game Demo](media/mastermind)
+![Mastermind Terminal Game Demo](media/mastermind.gif)
 
 ## Running Tests
 
