@@ -6,11 +6,30 @@ This project is based on the popular deduction game, Mastermind, where players g
 
 ![Mastermind Terminal Game Demo](media/mastermind.gif)
 
+## Bash terminal 
+Start a bash shell 
+
+## Virtual Environment
+Create a virtual environment
+```bash
+  python -m venv venv
+```
+```bash
+  source venv/bin/activate
+```
+
 ## Installation
 
 Clone the repo to your local machine and install python modules with pip
 ```bash
   pip install -r requirements.txt
+```
+
+## Running
+
+cd into the main directory and run the game.py file:
+```bash
+  python game.py
 ```
     
 ## Lessons Learned
