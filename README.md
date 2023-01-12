@@ -6,26 +6,18 @@ This project is based on the popular deduction game, Mastermind, where players g
 
 ![Mastermind Terminal Game Demo](media/mastermind.gif)
 
-## Running Tests
-
-To run tests, run the following command:
-
-```bash
-python -m unittest test_filename.py
-```
-
 ## Installation
 
-Install python modules with pip
+Clone the repo to your local machine and install python modules with pip
 ```bash
   pip install -r requirements.txt
 ```
     
 ## Lessons Learned
 
-Creating my own computer game in Python was a great refresher in the Python programnming language. I used many core programming skills including variables, loops, conditional statements, functions, and other techniques and algorithms. Also, I had the satisfaction to play the game I created! I used tools and libraries which I had not previously been exposed such as cowsay and termcolor. 
+Creating my own computer game in Python was a great refresher in the Python programnming language. I used many core programming skills including variables, loops, conditional statements, functions, and other techniques and algorithms. Also, I had the satisfaction to play the game I created! I used tools and libraries which I had not previously been exposed such as cowsay and termcolor to add some styling to the terminal and make the experience more like a game. 
 
 ## 🚀 About Me
-I'm a backend developer, and I love building things to help people do their jobs better. 
+I'm an aspiring backend developer, and I love building things to help people do their jobs better. I have built several projects related to job searching while learning to code on my own!
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
