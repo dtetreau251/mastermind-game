@@ -10,7 +10,7 @@ This project is based on the popular deduction game, Mastermind, where players g
 Start a bash shell 
 
 ## Clone the repo
-In the bash shell enter the command
+In the bash shell, navigate to the location you want the project and enter the command
 ```bash
 git clone git@github.com:dtetreau251/mastermind-game.git
 ```
