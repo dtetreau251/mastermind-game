@@ -9,6 +9,16 @@ This project is based on the popular deduction game, Mastermind, where players g
 ## Bash terminal 
 Start a bash shell 
 
+## Clone the repo
+In the bash shell enter the command
+```bash
+git clone git@github.com:dtetreau251/mastermind-game.git
+```
+## Navigate to the directory with project
+```bash
+cd path_to_directory
+```
+
 ## Virtual Environment
 Create a virtual environment
 ```bash
