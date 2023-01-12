@@ -6,7 +6,7 @@ This project is based on the popular deduction game, Mastermind, where players g
 
 ![Mastermind Terminal Game Demo](media/mastermind.gif)
 
-## Bash terminal 
+## Bash
 Start a bash shell 
 
 ## Clone the repo
